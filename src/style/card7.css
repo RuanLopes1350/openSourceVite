@@ -1,0 +1,13 @@
+.card-img7 img {
+    width: 116px;
+    height: 116px;
+}
+
+.card-img7 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: rgba(250, 229, 177, 1);
+    height: 185px;
+    width: 100%;
+}

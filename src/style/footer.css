@@ -1,0 +1,14 @@
+footer img {
+    height: 54px;
+}
+
+footer {
+    width: 100%;
+    background: rgba(56, 57, 63, 1);
+    padding-left: 21px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 24px;
+    height: 94px;
+}

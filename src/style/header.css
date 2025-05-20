@@ -1,0 +1,11 @@
+header {
+    height: 371px;
+    background: linear-gradient(rgba(182, 213, 255, 0.4)), url("/head.jpg") no-repeat center center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: rgba(32, 33, 36, 1);
+    font-weight: 700;
+    font-size: 128px;
+    
+}

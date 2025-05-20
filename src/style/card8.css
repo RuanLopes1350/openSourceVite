@@ -1,0 +1,13 @@
+.card-img8 img {
+    width: 116px;
+    height: 116px;
+}
+
+.card-img8 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background:rgba(173, 245, 191, 1);
+    height: 185px;
+    width: 100%;
+}

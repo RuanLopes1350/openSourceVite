@@ -1,0 +1,16 @@
+.card-img1 img {
+    width: 116px;
+    height: 116px;
+}
+
+.card-img1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: rgba(182, 213, 255, 1);
+    height: 185px;
+    width: 100%;
+}
+
+
+

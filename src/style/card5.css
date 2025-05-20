@@ -1,0 +1,13 @@
+.card-img5 img {
+    width: 116px;
+    height: 116px;
+}
+
+.card-img5 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: rgba(182, 245, 213, 1);
+    height: 185px;
+    width: 100%;
+}
